@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vriddhi Kushwaha
 - 👀 I’m interested in programming languages and songs
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me - 
 - email : vriddhikushwaha49@gmail.com
 - twitter:@VriddhiKushwaha
