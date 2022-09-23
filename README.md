@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me - 
 - email : vriddhikushwaha49@gmail.com
-- twitter:@VriddhiKushwaha
 - linkedin : https://www.linkedin.com/in/vriddhi-kushwaha-1a429b209
 
 <!---
